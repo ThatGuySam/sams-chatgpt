@@ -1,5 +1,5 @@
 {
-  "name": "pkg-name",
+  "name": "sams-chatgpt",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@7.12.0",
@@ -7,12 +7,12 @@
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-name#readme",
+  "homepage": "https://github.com/ThatGuySam/sams-chatgpt#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-name.git"
+    "url": "git+https://github.com/ThatGuySam/sams-chatgpt.git"
   },
-  "bugs": "https://github.com/antfu/pkg-name/issues",
+  "bugs": "https://github.com/ThatGuySam/sams-chatgpt/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
